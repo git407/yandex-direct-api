@@ -7,7 +7,7 @@
 ## Установка
 
 ```bash
-composer require sitkoru/yandex-direct-api
+composer require git407/yandex-direct-api
 ```
 
 ## Использование
