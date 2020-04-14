@@ -11,7 +11,7 @@
     {
       "name": "Nep",
       "email": "nep407@gmail.com"
-    },
+    }
   ],
   "require": {
     "php": ">=7.1.0",
